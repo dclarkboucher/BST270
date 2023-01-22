@@ -21,5 +21,7 @@ Last, if you have other questions, feel free to email me at
 
 
 Dylan Clark-Boucher, MS
+
 Ph.D. Student in Biostatistics
+
 Harvard TH Chan School of Public Health
